@@ -1,0 +1,6 @@
+module Pods_Timerio {
+  umbrella header "Pods-Timerio-umbrella.h"
+
+  export *
+  module * { export * }
+}

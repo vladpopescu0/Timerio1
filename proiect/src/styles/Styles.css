@@ -1,0 +1,37 @@
+.grey-bck {
+  background-color: rgba(184, 182, 182, 0.342);
+}
+.centered-small {
+  width: 50%;
+  margin: 50px auto;
+}
+.full-img {
+  background-image: url(https://www.moma.org/media/W1siZiIsIjM4NjQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fdc1ab6baa7f5400);
+  min-height: 100vh;
+  text-align: center;
+}
+.border-slim {
+  background-color: #fff;
+}
+.btn-create {
+  margin-top: 5px;
+}
+#table-events {
+  width: 80%;
+  margin: auto;
+}
+.bar-div {
+  max-width: 60rem;
+}
+.div-stats {
+  margin: 10px auto;
+  max-width: 900px;
+}
+tr button {
+  margin: 1px 1px 1px 1px;
+}
+.tooltip {
+  background-color: rgba(255, 255, 255, 0.808) !important;
+  color: black !important;
+  border: black solid 1px;
+}

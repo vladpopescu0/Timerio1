@@ -1,0 +1,6 @@
+module Pods_Timerio_TimerioTests {
+  umbrella header "Pods-Timerio-TimerioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
